@@ -14,3 +14,6 @@ if (navigator.geolocation){
         });
      }
 });
+
+
+delete me
